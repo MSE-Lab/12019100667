@@ -1,3 +1,3 @@
 # OGProfiler
 
-This is a python program for Orthologous Groups Prediction and Analysis.
+This is a python program for Profiling Orthologous Groups from sequence similarity network.
